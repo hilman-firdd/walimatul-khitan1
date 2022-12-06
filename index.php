@@ -180,9 +180,11 @@
                 <div class="card-body">
                     <div class="row mt-4">
                         <div class="col date">
-                        <b>Sabtu <span class="d-block">24</span> Desember 2022</b>
+                        <b>Sabtu <span class="d-block" style="font-size:26px;">24</span> Desember 2022</b>
                         </div>
+                        <br>
                     </div>
+                    <p><b>10.00 s/d 14.00 WIB</b></p>
                     <p class="desc-location mt-3">
                         Jl Jamika Gg. Kh. Ishak Wijaya RT.09/06 No.73 Kel.Sukahaji Kec. Babakan Ciparay Kota Bandung
                     </p>
@@ -479,13 +481,13 @@
                     </div>
                     <div class="row">
                         <div class="col-8">
-                            <b>BRI </b><br>
-                            <span onClick='copyText(this)'>0860734834 <img src="https://image.cermati.com/v1428073854/brands/avqoa9rfng8bklutfhm6.jpg" style="height:13px;margin-top:-5px;cursor:pointer"></span><br>
+                            <b>BCA </b><br>
+                            <span onClick='copyText(this)'>0860734834 <img src="https://www.psdstamps.com/wp-content/uploads/2019/11/grunge-copy-label-png.png" style="height:20px;margin-top:-5px;cursor:pointer"></span><br>
                             a/n Tendi Hardiansyah<br>
 
                         </div>
                         <div class="col-4">
-                            <img src=https://blogger.googleusercontent.com/img/a/AVvXsEiL-Z4N4ZWA1XzsRey-BtSFNExzQoAG2uAeL7dPDHJdgGs9DC7JhGgvu3qWs7uyQBuuKKBIZvNiL1BtT70JIgM4xWOw4zJegKAtf6Gp1jIIXN_nhCj32CZCKt1iC1JQD2rW4VT9HxGWD1zPSs030CiphPTU7CGD-aq30yPFm2spAhuza9Pb5kfFSJzT1g=w1200-h630-p-k-no-nu alt="Bank " style="width:100%;margin-top:25px">
+                            <img src=https://image.cermati.com/v1428073854/brands/avqoa9rfng8bklutfhm6.jpg alt="Bank " style="width:100%;margin-top:25px">
                         </div>
                     </div>
 
