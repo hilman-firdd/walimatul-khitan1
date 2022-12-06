@@ -123,7 +123,7 @@
                     </svg><span class="d-none d-lg-block"> Guest Book </span></a></li>
         </ul>
     </nav>
-    <section style="background:url('img/Background_Intro.webp') center center no-repeat; " class="cover" id="home">
+    <section style="background:url('img/Background Isi.webp') center center no-repeat; " class="cover" id="home">
         <?php
         $tamu = $_SERVER['REQUEST_URI'];
         $request  = str_replace("/selahasan", "", $_SERVER['REQUEST_URI']);
@@ -155,7 +155,7 @@
     </section>
 
 
-    <section style="background:url('img/Background_Intro.webp') center center no-repeat;" class="curved page-holder bg-cover" id="particles-js">
+    <section style="background:url('img/Background Isi.webp') center center no-repeat;" class="curved page-holder bg-cover" id="particles-js">
         <div class="container">
             <header class="text-center text-white vh-100 d-flex flex-column align-items-center justify-content-center mb-5">
                 <p style="font-family:dancing; font-size:1.9rem;color:#0a3d3e;">-Q.S. Ibrahim: 40-</p>

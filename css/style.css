@@ -443,7 +443,7 @@ h3,
 }
 
 .guestbook .card {
-    background: #2e3f44;
+    background: #f9ccd9;
     color: #333;
 }
 
@@ -464,7 +464,7 @@ h3,
 footer {
     text-align: center;
     padding: 20px 0 120px;
-    background-color: #2e3f44;
+    background-color: #f9ccd9;
     color: #fff;
 }
 
