@@ -475,7 +475,7 @@
                 <div class="modal-body">
                     <div class="text-center mb-3">
                         <img src="https://cdn-icons-png.flaticon.com/512/2904/2904973.png" alt="donation" style="max-width: 60px;">
-                        <h5 class="font-bold text-center">Kirim Hadiah<br><small>Untuk Nunik &amp; Faisal</small></h5>
+                        <h5 class="font-bold text-center">Kirim Hadiah<br><small>Untuk Syathir</small></h5>
                     </div>
                     <div class="row">
                         <div class="col-8">
