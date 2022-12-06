@@ -19,7 +19,7 @@
     <meta property="og:title" content="Walimatul Khitan Athallah Syathir Mumtaz" />
     <meta property="og:url" content="https://risalahati.id">
     <meta property="og:description" content="Walimatul Khitan Athallah Syathir Mumtaz Berlangsung acara pada hari Sabtu, 24 Desember 2022. Undangan khitan online by risalahati.id">
-    <meta property="og:image" content="https://risalahati.id/wp-content/uploads/2022/11/Intro-3.png">
+    <meta property="og:image" content="https://risalahati.id/wp-content/uploads/2022/12/brand.png">
     <meta property="og:type" content="website" />
     <meta property="og:image:type" content="image/jpg">
     <meta property='og:image:width' content='300' />
