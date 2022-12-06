@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/u1686239/public_html/nunikfaisal
+    - /bin/cp -R * $DEPLOYPATH

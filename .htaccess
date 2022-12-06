@@ -1,0 +1,12 @@
+Options +FollowSymLinks
+  RewriteEngine On
+
+  RewriteCond %{SCRIPT_FILENAME} !-d
+  RewriteCond %{SCRIPT_FILENAME} !-f
+
+  RewriteRule ^.*$ ./index.php
+
+  RewriteEngine on
+
+  RewriteCond %{THE_REQUEST} /category/\?company=([^_]+)_([^_]+)_([^_]+)_([^&\s]+) [NC]
+  RewriteRule ^ /category/?company=%1.%2.%3.%4 [QSA,NC,L,R]
