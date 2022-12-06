@@ -39,7 +39,7 @@ canvas {
   transition: all 0.5s ease-out;
 }
 .navbar .navbar-nav .nav-item .nav-link:hover {
-  color: #f9ccd9;
+  color: #578397;
 }
 .navbar .navbar-nav .nav-item .nav-link svg {
   font-size: 1.5rem;
@@ -47,7 +47,7 @@ canvas {
 }
 .navbar-light .navbar-nav .active > .nav-link {
   color: #fff;
-  background-color: #f9ccd9;
+  background-color: #578397;
 }
 .navbar-light .navbar-nav .active > .nav-link:hover {
   color: #fff;
@@ -76,14 +76,14 @@ canvas {
 }
 .owl-nav .owl-next,
 .owl-nav .owl-prev {
-  border: solid 2px #f9ccd9 !important;
+  border: solid 2px #578397 !important;
   padding: 10px !important;
   margin: 5px !important;
 }
 .owl-nav .owl-next span,
 .owl-nav .owl-prev span {
   padding: 0px 12px;
-  color: #f9ccd9;
+  color: #578397;
   font-size: 20px;
 }
 button.owl-next:hover,
@@ -259,7 +259,7 @@ section {
   font-size: 5rem;
   font-weight: 600;
   font-family: "Playball", cursive;
-  color: #f9ccd9;
+  color: #578397;
 }
 .couple-ring {
   padding: 2rem;
@@ -304,7 +304,7 @@ section {
   font-style: italic;
 }
 .timer-wrapper .card {
-  background: #f9ccd9;
+  background: #578397;
   color: #fff;
   margin-bottom: 20px;
 }
@@ -312,8 +312,8 @@ section {
   padding: 1.25rem 0 0 0;
 }
 .timer-wrapper .card-body p {
-  background: #0a3d53;
-  color: #f9ccd9;
+  background: #fff;
+  color: #578397;
   border-radius: 0.25rem;
 }
 .parallax {
@@ -343,16 +343,16 @@ section {
 }
 .btn-secondary {
   color: #fff;
-  background-color: #f9ccd9 !important;
-  border-color: #f9ccd9 !important;
+  background-color: #578397 !important;
+  border-color: #578397 !important;
 }
 .guest {
-  color: #f9ccd9 !important;
+  color: #578397 !important;
   font-size: 18px !important;
   font-weight: 400 !important;
 }
 .yth {
-  color: #f9ccd9 !important;
+  color: #578397 !important;
   font-size: 18px !important;
   font-weight: 700 !important;
 }
@@ -372,7 +372,7 @@ h3,
 }
 .information h3 {
   font-size: 2rem;
-  color: #f9ccd9;
+  color: #578397;
   font-family: "Playball", cursive;
 }
 .information h3 hr {
@@ -405,7 +405,7 @@ h3,
   border: solid 3px #0d3b51 !important;
 }
 .caption {
-  color: #f9ccd9;
+  color: #578397;
   font-size: 2.5rem;
 }
 .form-control:disabled,

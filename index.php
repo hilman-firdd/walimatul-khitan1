@@ -114,10 +114,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-camera">
                         <path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"></path>
                         <circle cx="12" cy="13" r="4"></circle>
-                    </svg><span class="d-none d-lg-block"> Gallery </span></a></li>
-            <li class="nav-item"><a class="nav-link" href="#event"><svg width=1em height=1em viewBox="0 0 16 16" class="bi bi-calendar2-check-fill" fill="currentColor" xmlns="https://www.w3.org/2000/svg">
-                        <path fill-rule="evenodd" d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5zM2 3.5c0-.276.244-.5.545-.5h10.91c.3 0 .545.224.545.5v1c0 .276-.244.5-.546.5H2.545C2.245 5 2 4.776 2 4.5v-1zm8.854 5.354a.5.5 0 0 0-.708-.708L7.5 10.793 6.354 9.646a.5.5 0 1 0-.708.708l1.5 1.5a.5.5 0 0 0 .708 0l3-3z"></path>
-                    </svg><span class="d-none d-lg-block"> Event </span></a></li>
+                    </svg><span class="d-none d-lg-block"> Gallery </span></a>
             <li class="nav-item"><a class="nav-link" href="#guestbook"><svg width=1em height=1em viewBox="0 0 16 16" class="bi bi-chat-left-dots-fill" fill="currentColor" xmlns="https://www.w3.org/2000/svg">
                         <path fill-rule="evenodd" d="M0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H4.414a1 1 0 0 0-.707.293L.854 15.146A.5.5 0 0 1 0 14.793V2zm5 4a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm4 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm3 1a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"></path>
                     </svg><span class="d-none d-lg-block"> Guest Book </span></a></li>
@@ -149,7 +146,7 @@
                         <strong class="yth" style="font-size:20px; color:#0d0f1c!important; font-weight:700;">guest</strong>
                     <?php } ?>
                 </p>
-                <button type=button class="btn btn-md btn-secondary open_invitation px-5" style="z-index:100;background-color: #f7bbcd!important; color:#0d0f1c; border:none;">Open Invitation</button>
+                <button type=button class="btn btn-md btn-secondary open_invitation px-5" style="z-index:100;background-color: #578397!important; color:#fff; border:none;">Open Invitation</button>
             </div>
         </div>
     </section>
@@ -308,16 +305,16 @@
         v44h-352z">
             </defs>
             <g class="parallax1">
-                <use xlink:href="#gentle-wave" x="50" y="3" fill="#fcd3df">
+                <use xlink:href="#gentle-wave" x="50" y="3" fill="#578397">
             </g>
             <g class="parallax2">
-                <use xlink:href="#gentle-wave" x="50" y="0" fill="#fde2eb">
+                <use xlink:href="#gentle-wave" x="50" y="0" fill="#385676">
             </g>
             <!-- <g class="parallax3">
                 <use xlink:href="#gentle-wave" x="50" y="9" fill="#303030">
             </g> -->
             <g class="parallax4">
-                <use xlink:href="#gentle-wave" x="50" y="6" fill="#f7bbcd">
+                <use xlink:href="#gentle-wave" x="50" y="6" fill="#6ec1e4">
             </g>
         </svg>
     </section>
@@ -332,16 +329,16 @@
         v44h-352z">
             </defs>
             <g class="parallax1">
-                <use xlink:href="#gentle-wave" x="50" y="3" fill="#fcd3df">
+                <use xlink:href="#gentle-wave" x="50" y="3" fill="#578397">
             </g>
             <g class="parallax2">
-                <use xlink:href="#gentle-wave" x="50" y="0" fill="#fde2eb">
+                <use xlink:href="#gentle-wave" x="50" y="0" fill="#385676">
             </g>
             <!-- <g class="parallax3">
                 <use xlink:href="#gentle-wave" x="50" y="9" fill="#303030">
             </g> -->
             <g class="parallax4">
-                <use xlink:href="#gentle-wave" x="50" y="6" fill="#f7bbcd">
+                <use xlink:href="#gentle-wave" x="50" y="6" fill="#6ec1e4">
             </g>
         </svg>
     <section class="guestbook left-flower right-flower" id="guestbook" style="background:url('img/Background Isi.webp') center center no-repeat;background-size: cover;" data-aos="fade-right" data-aos-delay="100">
@@ -402,16 +399,16 @@
         v44h-352z">
             </defs>
             <g class="parallax1">
-                <use xlink:href="#gentle-wave" x="50" y="3" fill="#fcd3df">
+                <use xlink:href="#gentle-wave" x="50" y="3" fill="#578397">
             </g>
             <g class="parallax2">
-                <use xlink:href="#gentle-wave" x="50" y="0" fill="#fde2eb">
+                <use xlink:href="#gentle-wave" x="50" y="0" fill="#385676">
             </g>
             <!-- <g class="parallax3">
                 <use xlink:href="#gentle-wave" x="50" y="9" fill="#303030">
             </g> -->
             <g class="parallax4">
-                <use xlink:href="#gentle-wave" x="50" y="6" fill="#f7bbcd">
+                <use xlink:href="#gentle-wave" x="50" y="6" fill="#6ec1e4">
             </g>
         </svg>
     <section style="background:url('img/Background Isi.webp') center center no-repeat;background-size: cover;">
