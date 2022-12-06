@@ -168,7 +168,7 @@
     <section class="couple" id="couple" style="background:url('img/Background Isi.webp') center center no-repeat;background-size: cover; margin-top:-4.5rem;">
         <!-- <img class="mb-3" src="img/Pembatas.png" width="250"> -->
         <div class="d-flex w-100 align-items-center justify-content-center mb-3" data-aos="flip-up" data-aos-delay="200">
-            <h2 class="caption" style="font-family:dancing; font-size:1.9rem; letter-spacing: -1px;"> Bismillah</h2>
+            <h2 class="caption" style="font-family:dancing; font-size:1.9rem; letter-spacing: -1px; color:#303030;"> Bismillah</h2>
         </div>
 
         <div class="container" data-aos="fade-up">
@@ -209,7 +209,7 @@
                         </div>
                     </div>
                 </div>
-                <div data-aos="fade-up" data-aos-easing="ease-out-cubic" data-aos-duration="2000" class="col-lg-2 end text-center">
+                <div data-aos="fade-up" data-aos-easing="ease-out-cubic" data-aos-duration="2000" class="col-lg-2 end text-center" style="color:#303030 ;">
                     &
                 </div>
             </div>
@@ -223,7 +223,7 @@
     <section class="gallery mask_top-2 mask_bottom" id="gallery" style="background:url('img/Background Isi.webp') center center no-repeat;background-size: cover;margin-top:-70px;">
         <div class="container">
             <div class="d-flex w-100 align-items-center flex-column justify-content-center ">
-                <h2 class="caption" style="font-family:dancing; font-size:2rem; letter-spacing: -1px; position:relative; top:-50px!important; margin-bottom:20px;">Gallery</h2>
+                <h2 class="caption" style="font-family:dancing; font-size:2rem; letter-spacing: -1px; position:relative; top:-50px!important; margin-bottom:20px; color:#303030;">Gallery</h2>
             </div>
             <div class="col-lg-12 mt-3">
                 <div class="row">
@@ -245,7 +245,7 @@
         <div class="container text-center mt-5">
             <!-- <img class="mb-3" src="img/Pembatas.png" width="250"> -->
             <div class="d-flex w-100 align-items-center justify-content-center mb-5" style="margin-top:-27px;" data-aos="flip-up" data-aos-delay="200">
-                <h2 class="caption" style="font-family:dancing; font-size:2rem; letter-spacing: -1px;">Countdown</h2>
+                <h2 class="caption" style="font-family:dancing; font-size:2rem; letter-spacing: -1px; color:#303030;">Countdown</h2>
             </div>
             <div class="col-lg-8 mt-5 mx-auto">
                 <div class="row timer-wrapper">
